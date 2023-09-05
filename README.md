@@ -1,4 +1,4 @@
-Hi 👋 My name is Fatima Abdirahmaan Ali
+Hi 👋 My name is Faatima Abdirahmaan Ali
 =======================================
 
 MERN stack Developer
