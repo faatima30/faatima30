@@ -4,7 +4,7 @@ Hi 👋 My name is Faatima Abdirahmaan Ali
 MERN stack Developer
 --------------------
 
-I am a recent graduate with a passion for web development. I am proficient in the MERN stack and I am eager to learn more. I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and I am always willing to help others. I have been working on personal projects to build my skills and experience. I am confident that I have the skills and potential to be a valuable asset to any team.
+I am proficient in the MERN stack with a passion for web development and I am eager to learn more. I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and I am always willing to help others. I have been working on personal projects to build my skills and experience. I am confident that I have the skills and potential to be a valuable asset to any team.
 
 * 🌍  I'm based in Somalia, Mogadishu
 * ✉️  You can contact me at [faatimapdirahmaanali@gmail.com](mailto:faatimapdirahmaanali@gmail.com)
