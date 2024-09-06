@@ -8,7 +8,7 @@ I am proficient in the MERN stack with a passion for web development and I am ea
 
 * 🌍  I'm based in Somalia, Mogadishu
 * ✉️  You can contact me at [faatimapdirahmaanali@gmail.com](mailto:faatimapdirahmaanali@gmail.com)
-* 🖥️  Currently working on my portfolio [my portfolio](https://faatima30.github.io/faatima/)
+* 🖥️  For my portfolio click [Here](https://faatima30.github.io/faatima/)
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/faatima30" target="_blank" rel="noreferrer"><img
