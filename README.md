@@ -7,7 +7,7 @@ MERN stack Developer
 I am proficient in the MERN stack with a passion for web development and I am eager to learn more. I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and I am always willing to help others. I have been working on personal projects to build my skills and experience. I am confident that I have the skills and potential to be a valuable asset to any team.
 
 * 🌍  I'm based in Somalia, Mogadishu
-* ✉️  You can contact me at [faatimapdirahmaanali@gmail.com](mailto:faatimapdirahmaanali@gmail.com)
+* ✉️  You can contact me at [faatimaapdirahmaanali@gmail.com](mailto:faatimaapdirahmaanali@gmail.com)
 * 🖥️  For my portfolio click [Here](https://faatima30.github.io/faatima/)
 * 🤝  I'm open to collaborating on interesting projects
 
