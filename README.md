@@ -4,7 +4,7 @@ Hi 👋 My name is Fadumo Abdirahman Ali
 MERN stack Developer
 --------------------
 
-I am proficient in the MERN stack with a passion for web development and I am eager to learn more. I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and I am always willing to help others. I have been working on personal projects to build my skills and experience. I am confident that I have the skills and potential to be a valuable asset to any team.
+I’m a software engineer who enjoys building useful, well-designed applications for the web and beyond. I focus on writing clean, simple, and reliable code, and I’m always exploring new tools and ideas to improve my work. I care about clarity, good architecture, and creating things that actually solve problems.
 
 * 🌍  I'm based in Somalia, Mogadishu
 * ✉️  You can contact me at [faatimaapdirahmaanali@gmail.com](mailto:faatimaapdirahmaanali@gmail.com)
