@@ -1,7 +1,7 @@
 Hi 👋 My name is Fadumo Abdirahman Ali
 =======================================
 
-MERN stack Developer
+Software engineer
 --------------------
 
 I’m a software engineer who enjoys building useful, well-designed applications for the web and beyond. I focus on writing clean, simple, and reliable code, and I’m always exploring new tools and ideas to improve my work. I care about clarity, good architecture, and creating things that actually solve problems.
