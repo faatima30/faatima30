@@ -8,7 +8,7 @@ I’m a software engineer who enjoys building useful, well-designed applications
 
 * 🌍  I'm based in Somalia, Mogadishu
 * ✉️  You can contact me at [faatimaapdirahmaanali@gmail.com](mailto:faatimaapdirahmaanali@gmail.com)
-* 🖥️  For my portfolio click [Here](https://faatima30.github.io/faatima/)
+* 🖥️  For my portfolio [coming soon]
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/faatima30" target="_blank" rel="noreferrer"><img
